@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Vitorias">Vitórias</string>
+    <string name="Derrotas">Derrotas</string>
+    <string name="Empates">Empates</string>
+    <string name="Jogar">Jogar</string>
+</resources>

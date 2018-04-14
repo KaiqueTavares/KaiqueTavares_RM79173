@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">NACDado</string>
+    <string name="Vitorias">Wins</string>
+    <string name="Derrotas">Defeats</string>
+    <string name="Empates">Draw</string>
+    <string name="Jogar">Play</string>
+</resources>
